@@ -1,2 +1,2 @@
 # Bicameral-Reservoirs
-Decoupling Memory Retention and Nonlinear Expansion through a Bicameral Memory–Nonlinearity Reservoir
+Decoupling Memory Retention and Nonlinear Expansion through Bicameral Memory–Nonlinearity Reservoirs
